@@ -69,4 +69,4 @@ Matplotlib • Seaborn • Power BI • Jupyter Notebooks
 
 ## About
 Part of a 6-month BIA® Research Internship at First Quadrant Labs.
-Project 2 of 6 — focused on marketing analytics and campaign optimization.
+Project 1 of 6 — focused on marketing analytics and campaign optimization.
